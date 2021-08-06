@@ -1,2 +1,4 @@
 # hello-world
-Guardar ideas, recursos,
+Guardar ideas, recursos, etc
+
+Compartirv ideas y progresar juntos!!
